@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="przywitaj">witaj programisto</string>
+    <string name="przycisk_1">TO jest PrzyCISK 1 c;</string>
+    <string name="przycisk_2">przyCisk 2 ;c</string>
+    <string name="przycisk_3"> przywroc </string>
+    <string name="licznik">0</string>
+    <string name="dodaj"> dodaj </string>
+    <string name="odejmij"> odejmij </string>
+    <string name="resetuj"> resetuj </string>
+</resources>
